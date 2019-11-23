@@ -1,0 +1,128 @@
+D:\SeabankSVN\dotnet\SystemPermission\Source\ApiFrame\ApiFrame\bin\ApiFrame.dll
+D:\SeabankSVN\dotnet\SystemPermission\Source\ApiFrame\ApiFrame\bin\ApiFrame.pdb
+D:\SeabankSVN\dotnet\SystemPermission\Source\ApiFrame\ApiFrame\bin\ApiFrame.Bussiness.dll
+D:\SeabankSVN\dotnet\SystemPermission\Source\ApiFrame\ApiFrame\bin\ApiFrame.Common.dll
+D:\SeabankSVN\dotnet\SystemPermission\Source\ApiFrame\ApiFrame\bin\Npgsql.dll
+D:\SeabankSVN\dotnet\SystemPermission\Source\ApiFrame\ApiFrame\bin\ApiFrame.DataAccess.dll
+D:\SeabankSVN\dotnet\SystemPermission\Source\ApiFrame\ApiFrame\bin\Mono.Security.dll
+D:\SeabankSVN\dotnet\SystemPermission\Source\ApiFrame\ApiFrame\bin\Newtonsoft.Json.dll
+D:\SeabankSVN\dotnet\SystemPermission\Source\ApiFrame\ApiFrame\bin\ApiFrame.Bussiness.pdb
+D:\SeabankSVN\dotnet\SystemPermission\Source\ApiFrame\ApiFrame\bin\ApiFrame.Common.pdb
+D:\SeabankSVN\dotnet\SystemPermission\Source\ApiFrame\ApiFrame\bin\ApiFrame.DataAccess.pdb
+D:\SeabankSVN\dotnet\SystemPermission\Source\ApiFrame\ApiFrame\obj\Debug\ApiFrame.csprojResolveAssemblyReference.cache
+D:\SeabankSVN\dotnet\SystemPermission\Source\ApiFrame\ApiFrame\obj\Debug\ApiFrame.dll
+D:\SeabankSVN\dotnet\SystemPermission\Source\ApiFrame\ApiFrame\obj\Debug\ApiFrame.pdb
+D:\SeabankSVN\dotnet\SystemPermission\SourceCode\ApiFrame\ApiFrame\bin\ApiFrame.dll
+D:\SeabankSVN\dotnet\SystemPermission\SourceCode\ApiFrame\ApiFrame\bin\ApiFrame.pdb
+D:\SeabankSVN\dotnet\SystemPermission\SourceCode\ApiFrame\ApiFrame\bin\ApiFrame.Bussiness.dll
+D:\SeabankSVN\dotnet\SystemPermission\SourceCode\ApiFrame\ApiFrame\bin\ApiFrame.Common.dll
+D:\SeabankSVN\dotnet\SystemPermission\SourceCode\ApiFrame\ApiFrame\bin\Npgsql.dll
+D:\SeabankSVN\dotnet\SystemPermission\SourceCode\ApiFrame\ApiFrame\bin\ApiFrame.DataAccess.dll
+D:\SeabankSVN\dotnet\SystemPermission\SourceCode\ApiFrame\ApiFrame\bin\Mono.Security.dll
+D:\SeabankSVN\dotnet\SystemPermission\SourceCode\ApiFrame\ApiFrame\bin\Newtonsoft.Json.dll
+D:\SeabankSVN\dotnet\SystemPermission\SourceCode\ApiFrame\ApiFrame\bin\ApiFrame.Bussiness.pdb
+D:\SeabankSVN\dotnet\SystemPermission\SourceCode\ApiFrame\ApiFrame\bin\ApiFrame.Common.pdb
+D:\SeabankSVN\dotnet\SystemPermission\SourceCode\ApiFrame\ApiFrame\bin\ApiFrame.DataAccess.pdb
+D:\SeabankSVN\dotnet\SystemPermission\SourceCode\ApiFrame\ApiFrame\obj\Debug\ApiFrame.csprojResolveAssemblyReference.cache
+D:\SeabankSVN\dotnet\SystemPermission\SourceCode\ApiFrame\ApiFrame\obj\Debug\ApiFrame.dll
+D:\SeabankSVN\dotnet\SystemPermission\SourceCode\ApiFrame\ApiFrame\obj\Debug\ApiFrame.pdb
+D:\SeabankSVN\dotnet\HRSB\Cham Cong\SourceCode\ApiFrame\ApiFrame\bin\ApiFrame.dll
+D:\SeabankSVN\dotnet\HRSB\Cham Cong\SourceCode\ApiFrame\ApiFrame\bin\ApiFrame.pdb
+D:\SeabankSVN\dotnet\HRSB\Cham Cong\SourceCode\ApiFrame\ApiFrame\bin\ApiFrame.Bussiness.dll
+D:\SeabankSVN\dotnet\HRSB\Cham Cong\SourceCode\ApiFrame\ApiFrame\bin\ApiFrame.Common.dll
+D:\SeabankSVN\dotnet\HRSB\Cham Cong\SourceCode\ApiFrame\ApiFrame\bin\Npgsql.dll
+D:\SeabankSVN\dotnet\HRSB\Cham Cong\SourceCode\ApiFrame\ApiFrame\bin\Mono.Security.dll
+D:\SeabankSVN\dotnet\HRSB\Cham Cong\SourceCode\ApiFrame\ApiFrame\bin\ApiFrame.Bussiness.pdb
+D:\SeabankSVN\dotnet\HRSB\Cham Cong\SourceCode\ApiFrame\ApiFrame\bin\ApiFrame.Common.pdb
+D:\SeabankSVN\dotnet\HRSB\Cham Cong\SourceCode\ApiFrame\ApiFrame\obj\Debug\ApiFrame.csprojResolveAssemblyReference.cache
+D:\SeabankSVN\dotnet\HRSB\Cham Cong\SourceCode\ApiFrame\ApiFrame\obj\Debug\ApiFrame.dll
+D:\SeabankSVN\dotnet\HRSB\Cham Cong\SourceCode\ApiFrame\ApiFrame\obj\Debug\ApiFrame.pdb
+D:\SeabankSVN\dotnet\HRSB\Cham Cong\SourceCode\ApiFrame\ApiFrame\bin\ApiFrame.DataAccess.dll
+D:\SeabankSVN\dotnet\HRSB\Cham Cong\SourceCode\ApiFrame\ApiFrame\bin\Newtonsoft.Json.dll
+D:\SeabankSVN\dotnet\HRSB\Cham Cong\SourceCode\ApiFrame\ApiFrame\bin\ApiFrame.DataAccess.pdb
+D:\SeabankSVN\dotnet\HRSB_ChamCong\SourceCode\ApiFrame\ApiFrame\bin\ApiFrame.dll
+D:\SeabankSVN\dotnet\HRSB_ChamCong\SourceCode\ApiFrame\ApiFrame\bin\ApiFrame.pdb
+D:\SeabankSVN\dotnet\HRSB_ChamCong\SourceCode\ApiFrame\ApiFrame\bin\ApiFrame.Bussiness.dll
+D:\SeabankSVN\dotnet\HRSB_ChamCong\SourceCode\ApiFrame\ApiFrame\bin\ApiFrame.Common.dll
+D:\SeabankSVN\dotnet\HRSB_ChamCong\SourceCode\ApiFrame\ApiFrame\bin\Npgsql.dll
+D:\SeabankSVN\dotnet\HRSB_ChamCong\SourceCode\ApiFrame\ApiFrame\bin\ApiFrame.DataAccess.dll
+D:\SeabankSVN\dotnet\HRSB_ChamCong\SourceCode\ApiFrame\ApiFrame\bin\Mono.Security.dll
+D:\SeabankSVN\dotnet\HRSB_ChamCong\SourceCode\ApiFrame\ApiFrame\bin\Newtonsoft.Json.dll
+D:\SeabankSVN\dotnet\HRSB_ChamCong\SourceCode\ApiFrame\ApiFrame\bin\ApiFrame.Bussiness.pdb
+D:\SeabankSVN\dotnet\HRSB_ChamCong\SourceCode\ApiFrame\ApiFrame\bin\ApiFrame.Common.pdb
+D:\SeabankSVN\dotnet\HRSB_ChamCong\SourceCode\ApiFrame\ApiFrame\bin\ApiFrame.DataAccess.pdb
+D:\SeabankSVN\dotnet\HRSB_ChamCong\SourceCode\ApiFrame\ApiFrame\obj\Debug\ApiFrame.csprojResolveAssemblyReference.cache
+D:\SeabankSVN\dotnet\HRSB_ChamCong\SourceCode\ApiFrame\ApiFrame\obj\Debug\ApiFrame.dll
+D:\SeabankSVN\dotnet\HRSB_ChamCong\SourceCode\ApiFrame\ApiFrame\obj\Debug\ApiFrame.pdb
+C:\Users\hieult.itsol\Desktop\SourceCode\ApiFrame\ApiFrame\bin\ApiFrame.dll
+C:\Users\hieult.itsol\Desktop\SourceCode\ApiFrame\ApiFrame\bin\ApiFrame.pdb
+C:\Users\hieult.itsol\Desktop\SourceCode\ApiFrame\ApiFrame\bin\ApiFrame.Bussiness.dll
+C:\Users\hieult.itsol\Desktop\SourceCode\ApiFrame\ApiFrame\bin\ApiFrame.Common.dll
+C:\Users\hieult.itsol\Desktop\SourceCode\ApiFrame\ApiFrame\bin\Npgsql.dll
+C:\Users\hieult.itsol\Desktop\SourceCode\ApiFrame\ApiFrame\bin\ApiFrame.Connection.dll
+C:\Users\hieult.itsol\Desktop\SourceCode\ApiFrame\ApiFrame\bin\ApiFrame.DataAccess.dll
+C:\Users\hieult.itsol\Desktop\SourceCode\ApiFrame\ApiFrame\bin\Mono.Security.dll
+C:\Users\hieult.itsol\Desktop\SourceCode\ApiFrame\ApiFrame\bin\log4net.dll
+C:\Users\hieult.itsol\Desktop\SourceCode\ApiFrame\ApiFrame\bin\Newtonsoft.Json.dll
+C:\Users\hieult.itsol\Desktop\SourceCode\ApiFrame\ApiFrame\bin\ApiFrame.Bussiness.pdb
+C:\Users\hieult.itsol\Desktop\SourceCode\ApiFrame\ApiFrame\bin\ApiFrame.Common.pdb
+C:\Users\hieult.itsol\Desktop\SourceCode\ApiFrame\ApiFrame\bin\ApiFrame.Connection.pdb
+C:\Users\hieult.itsol\Desktop\SourceCode\ApiFrame\ApiFrame\bin\ApiFrame.DataAccess.pdb
+C:\Users\hieult.itsol\Desktop\SourceCode\ApiFrame\ApiFrame\bin\log4net.xml
+C:\Users\hieult.itsol\Desktop\SourceCode\ApiFrame\ApiFrame\obj\Debug\ApiFrame.csprojResolveAssemblyReference.cache
+C:\Users\hieult.itsol\Desktop\SourceCode\ApiFrame\ApiFrame\obj\Debug\ApiFrame.dll
+C:\Users\hieult.itsol\Desktop\SourceCode\ApiFrame\ApiFrame\obj\Debug\ApiFrame.pdb
+D:\ApiFrame\ApiFrame\bin\ApiFrame.dll
+D:\ApiFrame\ApiFrame\bin\ApiFrame.pdb
+D:\ApiFrame\ApiFrame\bin\ApiFrame.Bussiness.dll
+D:\ApiFrame\ApiFrame\bin\ApiFrame.Common.dll
+D:\ApiFrame\ApiFrame\bin\Npgsql.dll
+D:\ApiFrame\ApiFrame\bin\ApiFrame.DataAccess.dll
+D:\ApiFrame\ApiFrame\bin\ApiFrame.Connection.dll
+D:\ApiFrame\ApiFrame\bin\Mono.Security.dll
+D:\ApiFrame\ApiFrame\bin\Newtonsoft.Json.dll
+D:\ApiFrame\ApiFrame\bin\log4net.dll
+D:\ApiFrame\ApiFrame\bin\ApiFrame.Bussiness.pdb
+D:\ApiFrame\ApiFrame\bin\ApiFrame.Common.pdb
+D:\ApiFrame\ApiFrame\bin\ApiFrame.DataAccess.pdb
+D:\ApiFrame\ApiFrame\bin\ApiFrame.Connection.pdb
+D:\ApiFrame\ApiFrame\bin\log4net.xml
+D:\ApiFrame\ApiFrame\obj\Debug\ApiFrame.csprojResolveAssemblyReference.cache
+D:\ApiFrame\ApiFrame\obj\Debug\ApiFrame.dll
+D:\ApiFrame\ApiFrame\obj\Debug\ApiFrame.pdb
+E:\Hau-Data\HRSB_TimeSheet\ApiFrame\ApiFrame\bin\ApiFrame.dll
+E:\Hau-Data\HRSB_TimeSheet\ApiFrame\ApiFrame\bin\ApiFrame.pdb
+E:\Hau-Data\HRSB_TimeSheet\ApiFrame\ApiFrame\bin\ApiFrame.Bussiness.dll
+E:\Hau-Data\HRSB_TimeSheet\ApiFrame\ApiFrame\bin\ApiFrame.Common.dll
+E:\Hau-Data\HRSB_TimeSheet\ApiFrame\ApiFrame\bin\Npgsql.dll
+E:\Hau-Data\HRSB_TimeSheet\ApiFrame\ApiFrame\bin\ApiFrame.DataAccess.dll
+E:\Hau-Data\HRSB_TimeSheet\ApiFrame\ApiFrame\bin\ApiFrame.Connection.dll
+E:\Hau-Data\HRSB_TimeSheet\ApiFrame\ApiFrame\bin\Mono.Security.dll
+E:\Hau-Data\HRSB_TimeSheet\ApiFrame\ApiFrame\bin\Newtonsoft.Json.dll
+E:\Hau-Data\HRSB_TimeSheet\ApiFrame\ApiFrame\bin\log4net.dll
+E:\Hau-Data\HRSB_TimeSheet\ApiFrame\ApiFrame\bin\ApiFrame.Bussiness.pdb
+E:\Hau-Data\HRSB_TimeSheet\ApiFrame\ApiFrame\bin\ApiFrame.Common.pdb
+E:\Hau-Data\HRSB_TimeSheet\ApiFrame\ApiFrame\bin\ApiFrame.DataAccess.pdb
+E:\Hau-Data\HRSB_TimeSheet\ApiFrame\ApiFrame\bin\ApiFrame.Connection.pdb
+E:\Hau-Data\HRSB_TimeSheet\ApiFrame\ApiFrame\bin\log4net.xml
+E:\Hau-Data\HRSB_TimeSheet\ApiFrame\ApiFrame\obj\Debug\ApiFrame.csprojResolveAssemblyReference.cache
+E:\Hau-Data\HRSB_TimeSheet\ApiFrame\ApiFrame\obj\Debug\ApiFrame.dll
+E:\Hau-Data\HRSB_TimeSheet\ApiFrame\ApiFrame\obj\Debug\ApiFrame.pdb
+D:\Source\ApiFrame\ApiFrame\bin\ApiFrame.dll
+D:\Source\ApiFrame\ApiFrame\bin\ApiFrame.pdb
+D:\Source\ApiFrame\ApiFrame\bin\ApiFrame.Bussiness.dll
+D:\Source\ApiFrame\ApiFrame\bin\ApiFrame.Common.dll
+D:\Source\ApiFrame\ApiFrame\bin\Npgsql.dll
+D:\Source\ApiFrame\ApiFrame\bin\ApiFrame.Connection.dll
+D:\Source\ApiFrame\ApiFrame\bin\ApiFrame.DataAccess.dll
+D:\Source\ApiFrame\ApiFrame\bin\Mono.Security.dll
+D:\Source\ApiFrame\ApiFrame\bin\log4net.dll
+D:\Source\ApiFrame\ApiFrame\bin\Newtonsoft.Json.dll
+D:\Source\ApiFrame\ApiFrame\bin\ApiFrame.Bussiness.pdb
+D:\Source\ApiFrame\ApiFrame\bin\ApiFrame.Common.pdb
+D:\Source\ApiFrame\ApiFrame\bin\ApiFrame.Connection.pdb
+D:\Source\ApiFrame\ApiFrame\bin\ApiFrame.DataAccess.pdb
+D:\Source\ApiFrame\ApiFrame\bin\log4net.xml
+D:\Source\ApiFrame\ApiFrame\obj\Debug\ApiFrame.csprojResolveAssemblyReference.cache
+D:\Source\ApiFrame\ApiFrame\obj\Debug\ApiFrame.dll
+D:\Source\ApiFrame\ApiFrame\obj\Debug\ApiFrame.pdb

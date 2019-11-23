@@ -1,0 +1,80 @@
+D:\SeabankSVN\dotnet\SystemPermission\Source\ApiFrame\ApiFrame.DataAccess\bin\Debug\ApiFrame.DataAccess.dll
+D:\SeabankSVN\dotnet\SystemPermission\Source\ApiFrame\ApiFrame.DataAccess\bin\Debug\ApiFrame.DataAccess.pdb
+D:\SeabankSVN\dotnet\SystemPermission\Source\ApiFrame\ApiFrame.DataAccess\bin\Debug\ApiFrame.Common.dll
+D:\SeabankSVN\dotnet\SystemPermission\Source\ApiFrame\ApiFrame.DataAccess\bin\Debug\Mono.Security.dll
+D:\SeabankSVN\dotnet\SystemPermission\Source\ApiFrame\ApiFrame.DataAccess\bin\Debug\Newtonsoft.Json.dll
+D:\SeabankSVN\dotnet\SystemPermission\Source\ApiFrame\ApiFrame.DataAccess\bin\Debug\Npgsql.dll
+D:\SeabankSVN\dotnet\SystemPermission\Source\ApiFrame\ApiFrame.DataAccess\bin\Debug\ApiFrame.Common.pdb
+D:\SeabankSVN\dotnet\SystemPermission\Source\ApiFrame\ApiFrame.DataAccess\obj\Debug\ApiFrame.DataAccess.csprojResolveAssemblyReference.cache
+D:\SeabankSVN\dotnet\SystemPermission\Source\ApiFrame\ApiFrame.DataAccess\obj\Debug\ApiFrame.DataAccess.dll
+D:\SeabankSVN\dotnet\SystemPermission\Source\ApiFrame\ApiFrame.DataAccess\obj\Debug\ApiFrame.DataAccess.pdb
+D:\SeabankSVN\dotnet\SystemPermission\SourceCode\ApiFrame\ApiFrame.DataAccess\bin\Debug\ApiFrame.DataAccess.dll
+D:\SeabankSVN\dotnet\SystemPermission\SourceCode\ApiFrame\ApiFrame.DataAccess\bin\Debug\ApiFrame.DataAccess.pdb
+D:\SeabankSVN\dotnet\SystemPermission\SourceCode\ApiFrame\ApiFrame.DataAccess\bin\Debug\ApiFrame.Common.dll
+D:\SeabankSVN\dotnet\SystemPermission\SourceCode\ApiFrame\ApiFrame.DataAccess\bin\Debug\Mono.Security.dll
+D:\SeabankSVN\dotnet\SystemPermission\SourceCode\ApiFrame\ApiFrame.DataAccess\bin\Debug\Newtonsoft.Json.dll
+D:\SeabankSVN\dotnet\SystemPermission\SourceCode\ApiFrame\ApiFrame.DataAccess\bin\Debug\Npgsql.dll
+D:\SeabankSVN\dotnet\SystemPermission\SourceCode\ApiFrame\ApiFrame.DataAccess\bin\Debug\ApiFrame.Common.pdb
+D:\SeabankSVN\dotnet\SystemPermission\SourceCode\ApiFrame\ApiFrame.DataAccess\obj\Debug\ApiFrame.DataAccess.csprojResolveAssemblyReference.cache
+D:\SeabankSVN\dotnet\SystemPermission\SourceCode\ApiFrame\ApiFrame.DataAccess\obj\Debug\ApiFrame.DataAccess.dll
+D:\SeabankSVN\dotnet\SystemPermission\SourceCode\ApiFrame\ApiFrame.DataAccess\obj\Debug\ApiFrame.DataAccess.pdb
+D:\SeabankSVN\dotnet\HRSB\Cham Cong\SourceCode\ApiFrame\ApiFrame.DataAccess\bin\Debug\ApiFrame.DataAccess.dll
+D:\SeabankSVN\dotnet\HRSB\Cham Cong\SourceCode\ApiFrame\ApiFrame.DataAccess\bin\Debug\ApiFrame.DataAccess.pdb
+D:\SeabankSVN\dotnet\HRSB\Cham Cong\SourceCode\ApiFrame\ApiFrame.DataAccess\bin\Debug\ApiFrame.Common.dll
+D:\SeabankSVN\dotnet\HRSB\Cham Cong\SourceCode\ApiFrame\ApiFrame.DataAccess\bin\Debug\Mono.Security.dll
+D:\SeabankSVN\dotnet\HRSB\Cham Cong\SourceCode\ApiFrame\ApiFrame.DataAccess\bin\Debug\Newtonsoft.Json.dll
+D:\SeabankSVN\dotnet\HRSB\Cham Cong\SourceCode\ApiFrame\ApiFrame.DataAccess\bin\Debug\Npgsql.dll
+D:\SeabankSVN\dotnet\HRSB\Cham Cong\SourceCode\ApiFrame\ApiFrame.DataAccess\bin\Debug\ApiFrame.Common.pdb
+D:\SeabankSVN\dotnet\HRSB\Cham Cong\SourceCode\ApiFrame\ApiFrame.DataAccess\obj\Debug\ApiFrame.DataAccess.csprojResolveAssemblyReference.cache
+D:\SeabankSVN\dotnet\HRSB\Cham Cong\SourceCode\ApiFrame\ApiFrame.DataAccess\obj\Debug\ApiFrame.DataAccess.dll
+D:\SeabankSVN\dotnet\HRSB\Cham Cong\SourceCode\ApiFrame\ApiFrame.DataAccess\obj\Debug\ApiFrame.DataAccess.pdb
+D:\SeabankSVN\dotnet\HRSB_ChamCong\SourceCode\ApiFrame\ApiFrame.DataAccess\bin\Debug\ApiFrame.DataAccess.dll
+D:\SeabankSVN\dotnet\HRSB_ChamCong\SourceCode\ApiFrame\ApiFrame.DataAccess\bin\Debug\ApiFrame.DataAccess.pdb
+D:\SeabankSVN\dotnet\HRSB_ChamCong\SourceCode\ApiFrame\ApiFrame.DataAccess\bin\Debug\ApiFrame.Common.dll
+D:\SeabankSVN\dotnet\HRSB_ChamCong\SourceCode\ApiFrame\ApiFrame.DataAccess\bin\Debug\Mono.Security.dll
+D:\SeabankSVN\dotnet\HRSB_ChamCong\SourceCode\ApiFrame\ApiFrame.DataAccess\bin\Debug\Newtonsoft.Json.dll
+D:\SeabankSVN\dotnet\HRSB_ChamCong\SourceCode\ApiFrame\ApiFrame.DataAccess\bin\Debug\Npgsql.dll
+D:\SeabankSVN\dotnet\HRSB_ChamCong\SourceCode\ApiFrame\ApiFrame.DataAccess\bin\Debug\ApiFrame.Common.pdb
+D:\SeabankSVN\dotnet\HRSB_ChamCong\SourceCode\ApiFrame\ApiFrame.DataAccess\obj\Debug\ApiFrame.DataAccess.csprojResolveAssemblyReference.cache
+D:\SeabankSVN\dotnet\HRSB_ChamCong\SourceCode\ApiFrame\ApiFrame.DataAccess\obj\Debug\ApiFrame.DataAccess.dll
+D:\SeabankSVN\dotnet\HRSB_ChamCong\SourceCode\ApiFrame\ApiFrame.DataAccess\obj\Debug\ApiFrame.DataAccess.pdb
+C:\Users\hieult.itsol\Desktop\SourceCode\ApiFrame\ApiFrame.DataAccess\bin\Debug\ApiFrame.DataAccess.dll
+C:\Users\hieult.itsol\Desktop\SourceCode\ApiFrame\ApiFrame.DataAccess\bin\Debug\ApiFrame.DataAccess.pdb
+C:\Users\hieult.itsol\Desktop\SourceCode\ApiFrame\ApiFrame.DataAccess\bin\Debug\ApiFrame.Common.dll
+C:\Users\hieult.itsol\Desktop\SourceCode\ApiFrame\ApiFrame.DataAccess\bin\Debug\Mono.Security.dll
+C:\Users\hieult.itsol\Desktop\SourceCode\ApiFrame\ApiFrame.DataAccess\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hieult.itsol\Desktop\SourceCode\ApiFrame\ApiFrame.DataAccess\bin\Debug\Npgsql.dll
+C:\Users\hieult.itsol\Desktop\SourceCode\ApiFrame\ApiFrame.DataAccess\bin\Debug\ApiFrame.Common.pdb
+C:\Users\hieult.itsol\Desktop\SourceCode\ApiFrame\ApiFrame.DataAccess\obj\Debug\ApiFrame.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\hieult.itsol\Desktop\SourceCode\ApiFrame\ApiFrame.DataAccess\obj\Debug\ApiFrame.DataAccess.dll
+C:\Users\hieult.itsol\Desktop\SourceCode\ApiFrame\ApiFrame.DataAccess\obj\Debug\ApiFrame.DataAccess.pdb
+D:\ApiFrame\ApiFrame.DataAccess\bin\Debug\ApiFrame.DataAccess.dll
+D:\ApiFrame\ApiFrame.DataAccess\bin\Debug\ApiFrame.DataAccess.pdb
+D:\ApiFrame\ApiFrame.DataAccess\bin\Debug\ApiFrame.Common.dll
+D:\ApiFrame\ApiFrame.DataAccess\bin\Debug\Mono.Security.dll
+D:\ApiFrame\ApiFrame.DataAccess\bin\Debug\Newtonsoft.Json.dll
+D:\ApiFrame\ApiFrame.DataAccess\bin\Debug\Npgsql.dll
+D:\ApiFrame\ApiFrame.DataAccess\bin\Debug\ApiFrame.Common.pdb
+D:\ApiFrame\ApiFrame.DataAccess\obj\Debug\ApiFrame.DataAccess.csprojResolveAssemblyReference.cache
+D:\ApiFrame\ApiFrame.DataAccess\obj\Debug\ApiFrame.DataAccess.dll
+D:\ApiFrame\ApiFrame.DataAccess\obj\Debug\ApiFrame.DataAccess.pdb
+E:\Hau-Data\HRSB_TimeSheet\ApiFrame\ApiFrame.DataAccess\bin\Debug\ApiFrame.DataAccess.dll
+E:\Hau-Data\HRSB_TimeSheet\ApiFrame\ApiFrame.DataAccess\bin\Debug\ApiFrame.DataAccess.pdb
+E:\Hau-Data\HRSB_TimeSheet\ApiFrame\ApiFrame.DataAccess\bin\Debug\ApiFrame.Common.dll
+E:\Hau-Data\HRSB_TimeSheet\ApiFrame\ApiFrame.DataAccess\bin\Debug\Mono.Security.dll
+E:\Hau-Data\HRSB_TimeSheet\ApiFrame\ApiFrame.DataAccess\bin\Debug\Newtonsoft.Json.dll
+E:\Hau-Data\HRSB_TimeSheet\ApiFrame\ApiFrame.DataAccess\bin\Debug\Npgsql.dll
+E:\Hau-Data\HRSB_TimeSheet\ApiFrame\ApiFrame.DataAccess\bin\Debug\ApiFrame.Common.pdb
+E:\Hau-Data\HRSB_TimeSheet\ApiFrame\ApiFrame.DataAccess\obj\Debug\ApiFrame.DataAccess.csprojResolveAssemblyReference.cache
+E:\Hau-Data\HRSB_TimeSheet\ApiFrame\ApiFrame.DataAccess\obj\Debug\ApiFrame.DataAccess.dll
+E:\Hau-Data\HRSB_TimeSheet\ApiFrame\ApiFrame.DataAccess\obj\Debug\ApiFrame.DataAccess.pdb
+D:\Source\ApiFrame\ApiFrame.DataAccess\bin\Debug\ApiFrame.DataAccess.dll
+D:\Source\ApiFrame\ApiFrame.DataAccess\bin\Debug\ApiFrame.DataAccess.pdb
+D:\Source\ApiFrame\ApiFrame.DataAccess\bin\Debug\ApiFrame.Common.dll
+D:\Source\ApiFrame\ApiFrame.DataAccess\bin\Debug\Mono.Security.dll
+D:\Source\ApiFrame\ApiFrame.DataAccess\bin\Debug\Newtonsoft.Json.dll
+D:\Source\ApiFrame\ApiFrame.DataAccess\bin\Debug\Npgsql.dll
+D:\Source\ApiFrame\ApiFrame.DataAccess\bin\Debug\ApiFrame.Common.pdb
+D:\Source\ApiFrame\ApiFrame.DataAccess\obj\Debug\ApiFrame.DataAccess.csprojResolveAssemblyReference.cache
+D:\Source\ApiFrame\ApiFrame.DataAccess\obj\Debug\ApiFrame.DataAccess.dll
+D:\Source\ApiFrame\ApiFrame.DataAccess\obj\Debug\ApiFrame.DataAccess.pdb

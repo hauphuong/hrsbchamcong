@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="seabReq">
+    <xs:sequence>
+      <xs:element name="header" nillable="true" type="header" />
+      <xs:element minOccurs="0" name="body" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="seabReq" nillable="true" type="seabReq" />
+  <xs:complexType name="header">
+    <xs:sequence>
+      <xs:element name="api" nillable="true" type="xs:string" />
+      <xs:element name="apiKey" nillable="true" type="xs:string" />
+      <xs:element name="command" nillable="true" type="xs:string" />
+      <xs:element name="sender" nillable="true" type="xs:string" />
+      <xs:element name="traceid" nillable="true" type="xs:string" />
+      <xs:element name="req_time" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="sync" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="priority" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="header" nillable="true" type="header" />
+</xs:schema>

@@ -1,0 +1,34 @@
+D:\SeabankSVN\dotnet\SystemPermission\Source\ApiFrame\ApiFrame.Common\bin\Debug\ApiFrame.Common.dll
+D:\SeabankSVN\dotnet\SystemPermission\Source\ApiFrame\ApiFrame.Common\bin\Debug\ApiFrame.Common.pdb
+D:\SeabankSVN\dotnet\SystemPermission\Source\ApiFrame\ApiFrame.Common\obj\Debug\ApiFrame.Common.dll
+D:\SeabankSVN\dotnet\SystemPermission\Source\ApiFrame\ApiFrame.Common\obj\Debug\ApiFrame.Common.pdb
+D:\SeabankSVN\dotnet\SystemPermission\SourceCode\ApiFrame\ApiFrame.Common\bin\Debug\ApiFrame.Common.dll
+D:\SeabankSVN\dotnet\SystemPermission\SourceCode\ApiFrame\ApiFrame.Common\bin\Debug\ApiFrame.Common.pdb
+D:\SeabankSVN\dotnet\SystemPermission\SourceCode\ApiFrame\ApiFrame.Common\obj\Debug\ApiFrame.Common.dll
+D:\SeabankSVN\dotnet\SystemPermission\SourceCode\ApiFrame\ApiFrame.Common\obj\Debug\ApiFrame.Common.pdb
+D:\SeabankSVN\dotnet\SystemPermission\SourceCode\ApiFrame\ApiFrame.Common\obj\Debug\ApiFrame.Common.csprojResolveAssemblyReference.cache
+D:\SeabankSVN\dotnet\HRSB\Cham Cong\SourceCode\ApiFrame\ApiFrame.Common\bin\Debug\ApiFrame.Common.dll
+D:\SeabankSVN\dotnet\HRSB\Cham Cong\SourceCode\ApiFrame\ApiFrame.Common\bin\Debug\ApiFrame.Common.pdb
+D:\SeabankSVN\dotnet\HRSB\Cham Cong\SourceCode\ApiFrame\ApiFrame.Common\obj\Debug\ApiFrame.Common.dll
+D:\SeabankSVN\dotnet\HRSB\Cham Cong\SourceCode\ApiFrame\ApiFrame.Common\obj\Debug\ApiFrame.Common.pdb
+D:\SeabankSVN\dotnet\HRSB_ChamCong\SourceCode\ApiFrame\ApiFrame.Common\bin\Debug\ApiFrame.Common.dll
+D:\SeabankSVN\dotnet\HRSB_ChamCong\SourceCode\ApiFrame\ApiFrame.Common\bin\Debug\ApiFrame.Common.pdb
+D:\SeabankSVN\dotnet\HRSB_ChamCong\SourceCode\ApiFrame\ApiFrame.Common\obj\Debug\ApiFrame.Common.dll
+D:\SeabankSVN\dotnet\HRSB_ChamCong\SourceCode\ApiFrame\ApiFrame.Common\obj\Debug\ApiFrame.Common.pdb
+C:\Users\hieult.itsol\Desktop\SourceCode\ApiFrame\ApiFrame.Common\bin\Debug\ApiFrame.Common.dll
+C:\Users\hieult.itsol\Desktop\SourceCode\ApiFrame\ApiFrame.Common\bin\Debug\ApiFrame.Common.pdb
+C:\Users\hieult.itsol\Desktop\SourceCode\ApiFrame\ApiFrame.Common\obj\Debug\ApiFrame.Common.dll
+C:\Users\hieult.itsol\Desktop\SourceCode\ApiFrame\ApiFrame.Common\obj\Debug\ApiFrame.Common.pdb
+D:\ApiFrame\ApiFrame.Common\bin\Debug\ApiFrame.Common.dll
+D:\ApiFrame\ApiFrame.Common\bin\Debug\ApiFrame.Common.pdb
+D:\ApiFrame\ApiFrame.Common\obj\Debug\ApiFrame.Common.dll
+D:\ApiFrame\ApiFrame.Common\obj\Debug\ApiFrame.Common.pdb
+E:\Hau-Data\HRSB_TimeSheet\ApiFrame\ApiFrame.Common\bin\Debug\ApiFrame.Common.dll
+E:\Hau-Data\HRSB_TimeSheet\ApiFrame\ApiFrame.Common\bin\Debug\ApiFrame.Common.pdb
+E:\Hau-Data\HRSB_TimeSheet\ApiFrame\ApiFrame.Common\obj\Debug\ApiFrame.Common.dll
+E:\Hau-Data\HRSB_TimeSheet\ApiFrame\ApiFrame.Common\obj\Debug\ApiFrame.Common.pdb
+D:\Source\ApiFrame\ApiFrame.Common\bin\Debug\ApiFrame.Common.dll
+D:\Source\ApiFrame\ApiFrame.Common\bin\Debug\ApiFrame.Common.pdb
+D:\Source\ApiFrame\ApiFrame.Common\obj\Debug\ApiFrame.Common.csprojResolveAssemblyReference.cache
+D:\Source\ApiFrame\ApiFrame.Common\obj\Debug\ApiFrame.Common.dll
+D:\Source\ApiFrame\ApiFrame.Common\obj\Debug\ApiFrame.Common.pdb

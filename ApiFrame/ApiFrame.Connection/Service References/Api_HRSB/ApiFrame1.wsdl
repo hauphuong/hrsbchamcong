@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://api.seabank.com.vn/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" targetNamespace="http://api.seabank.com.vn/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://api.seabank.com.vn/Imports">
+      <xsd:import schemaLocation="http://10.9.70.64:8586/ApiFrame.svc?xsd=xsd0" namespace="http://api.seabank.com.vn/" />
+      <xsd:import schemaLocation="http://10.9.70.64:8586/ApiFrame.svc?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import schemaLocation="http://10.9.70.64:8586/ApiFrame.svc?xsd=xsd2" />
+      <xsd:import schemaLocation="http://10.9.70.64:8586/ApiFrame.svc?xsd=xsd3" namespace="http://schemas.datacontract.org/2004/07/ApiSystem" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="IApiframe_process_InputMessage">
+    <wsdl:part name="parameters" element="tns:process" />
+  </wsdl:message>
+  <wsdl:message name="IApiframe_process_OutputMessage">
+    <wsdl:part name="parameters" element="tns:processResponse" />
+  </wsdl:message>
+  <wsdl:message name="IApiframe_ApiProcess_InputMessage">
+    <wsdl:part name="parameters" element="tns:ApiProcess" />
+  </wsdl:message>
+  <wsdl:message name="IApiframe_ApiProcess_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ApiProcessResponse" />
+  </wsdl:message>
+  <wsdl:portType name="IApiframe">
+    <wsdl:operation name="process">
+      <wsdl:input wsaw:Action="" message="tns:IApiframe_process_InputMessage" />
+      <wsdl:output wsaw:Action="http://api.seabank.com.vn/IApiframe/processResponse" message="tns:IApiframe_process_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ApiProcess">
+      <wsdl:input wsaw:Action="http://api.seabank.com.vn/IApiframe/ApiProcess" message="tns:IApiframe_ApiProcess_InputMessage" />
+      <wsdl:output wsaw:Action="http://api.seabank.com.vn/IApiframe/ApiProcessResponse" message="tns:IApiframe_ApiProcess_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+</wsdl:definitions>

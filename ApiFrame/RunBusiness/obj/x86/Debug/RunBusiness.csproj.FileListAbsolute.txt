@@ -1,0 +1,106 @@
+D:\SeabankSVN\dotnet\HRSB\Cham Cong\SourceCode\ApiFrame\RunBusiness\bin\Debug\RunBusiness.exe.config
+D:\SeabankSVN\dotnet\HRSB\Cham Cong\SourceCode\ApiFrame\RunBusiness\obj\x86\Debug\RunBusiness.csprojResolveAssemblyReference.cache
+D:\SeabankSVN\dotnet\HRSB\Cham Cong\SourceCode\ApiFrame\RunBusiness\obj\x86\Debug\RunBusiness.frmTest.resources
+D:\SeabankSVN\dotnet\HRSB\Cham Cong\SourceCode\ApiFrame\RunBusiness\obj\x86\Debug\RunBusiness.Properties.Resources.resources
+D:\SeabankSVN\dotnet\HRSB\Cham Cong\SourceCode\ApiFrame\RunBusiness\obj\x86\Debug\RunBusiness.csproj.GenerateResource.Cache
+D:\SeabankSVN\dotnet\HRSB\Cham Cong\SourceCode\ApiFrame\RunBusiness\bin\Debug\RunBusiness.exe
+D:\SeabankSVN\dotnet\HRSB\Cham Cong\SourceCode\ApiFrame\RunBusiness\bin\Debug\RunBusiness.pdb
+D:\SeabankSVN\dotnet\HRSB\Cham Cong\SourceCode\ApiFrame\RunBusiness\bin\Debug\ApiFrame.Bussiness.dll
+D:\SeabankSVN\dotnet\HRSB\Cham Cong\SourceCode\ApiFrame\RunBusiness\bin\Debug\ApiFrame.Common.dll
+D:\SeabankSVN\dotnet\HRSB\Cham Cong\SourceCode\ApiFrame\RunBusiness\bin\Debug\ApiFrame.DataAccess.dll
+D:\SeabankSVN\dotnet\HRSB\Cham Cong\SourceCode\ApiFrame\RunBusiness\bin\Debug\Npgsql.dll
+D:\SeabankSVN\dotnet\HRSB\Cham Cong\SourceCode\ApiFrame\RunBusiness\bin\Debug\Newtonsoft.Json.dll
+D:\SeabankSVN\dotnet\HRSB\Cham Cong\SourceCode\ApiFrame\RunBusiness\bin\Debug\Mono.Security.dll
+D:\SeabankSVN\dotnet\HRSB\Cham Cong\SourceCode\ApiFrame\RunBusiness\bin\Debug\ApiFrame.Bussiness.pdb
+D:\SeabankSVN\dotnet\HRSB\Cham Cong\SourceCode\ApiFrame\RunBusiness\bin\Debug\ApiFrame.Common.pdb
+D:\SeabankSVN\dotnet\HRSB\Cham Cong\SourceCode\ApiFrame\RunBusiness\bin\Debug\ApiFrame.DataAccess.pdb
+D:\SeabankSVN\dotnet\HRSB\Cham Cong\SourceCode\ApiFrame\RunBusiness\obj\x86\Debug\RunBusiness.exe
+D:\SeabankSVN\dotnet\HRSB\Cham Cong\SourceCode\ApiFrame\RunBusiness\obj\x86\Debug\RunBusiness.pdb
+D:\SeabankSVN\dotnet\HRSB_ChamCong\SourceCode\ApiFrame\RunBusiness\bin\Debug\RunBusiness.exe.config
+D:\SeabankSVN\dotnet\HRSB_ChamCong\SourceCode\ApiFrame\RunBusiness\obj\x86\Debug\RunBusiness.exe
+D:\SeabankSVN\dotnet\HRSB_ChamCong\SourceCode\ApiFrame\RunBusiness\obj\x86\Debug\RunBusiness.pdb
+D:\SeabankSVN\dotnet\HRSB_ChamCong\SourceCode\ApiFrame\RunBusiness\bin\Debug\RunBusiness.exe
+D:\SeabankSVN\dotnet\HRSB_ChamCong\SourceCode\ApiFrame\RunBusiness\bin\Debug\RunBusiness.pdb
+D:\SeabankSVN\dotnet\HRSB_ChamCong\SourceCode\ApiFrame\RunBusiness\bin\Debug\ApiFrame.Bussiness.dll
+D:\SeabankSVN\dotnet\HRSB_ChamCong\SourceCode\ApiFrame\RunBusiness\bin\Debug\ApiFrame.Common.dll
+D:\SeabankSVN\dotnet\HRSB_ChamCong\SourceCode\ApiFrame\RunBusiness\bin\Debug\ApiFrame.DataAccess.dll
+D:\SeabankSVN\dotnet\HRSB_ChamCong\SourceCode\ApiFrame\RunBusiness\bin\Debug\Npgsql.dll
+D:\SeabankSVN\dotnet\HRSB_ChamCong\SourceCode\ApiFrame\RunBusiness\bin\Debug\Newtonsoft.Json.dll
+D:\SeabankSVN\dotnet\HRSB_ChamCong\SourceCode\ApiFrame\RunBusiness\bin\Debug\Mono.Security.dll
+D:\SeabankSVN\dotnet\HRSB_ChamCong\SourceCode\ApiFrame\RunBusiness\bin\Debug\ApiFrame.Bussiness.pdb
+D:\SeabankSVN\dotnet\HRSB_ChamCong\SourceCode\ApiFrame\RunBusiness\bin\Debug\ApiFrame.Common.pdb
+D:\SeabankSVN\dotnet\HRSB_ChamCong\SourceCode\ApiFrame\RunBusiness\bin\Debug\ApiFrame.DataAccess.pdb
+D:\SeabankSVN\dotnet\HRSB_ChamCong\SourceCode\ApiFrame\RunBusiness\obj\x86\Debug\RunBusiness.csprojResolveAssemblyReference.cache
+D:\SeabankSVN\dotnet\HRSB_ChamCong\SourceCode\ApiFrame\RunBusiness\obj\x86\Debug\RunBusiness.frmTest.resources
+D:\SeabankSVN\dotnet\HRSB_ChamCong\SourceCode\ApiFrame\RunBusiness\obj\x86\Debug\RunBusiness.Properties.Resources.resources
+D:\SeabankSVN\dotnet\HRSB_ChamCong\SourceCode\ApiFrame\RunBusiness\obj\x86\Debug\RunBusiness.csproj.GenerateResource.Cache
+C:\Users\hieult.itsol\Desktop\SourceCode\ApiFrame\RunBusiness\obj\x86\Debug\RunBusiness.csprojResolveAssemblyReference.cache
+C:\Users\hieult.itsol\Desktop\SourceCode\ApiFrame\RunBusiness\obj\x86\Debug\RunBusiness.frmTest.resources
+C:\Users\hieult.itsol\Desktop\SourceCode\ApiFrame\RunBusiness\obj\x86\Debug\RunBusiness.Properties.Resources.resources
+C:\Users\hieult.itsol\Desktop\SourceCode\ApiFrame\RunBusiness\obj\x86\Debug\RunBusiness.csproj.GenerateResource.Cache
+D:\ApiFrame\RunBusiness\obj\x86\Debug\RunBusiness.csprojResolveAssemblyReference.cache
+D:\ApiFrame\RunBusiness\obj\x86\Debug\RunBusiness.frmTest.resources
+D:\ApiFrame\RunBusiness\obj\x86\Debug\RunBusiness.Properties.Resources.resources
+D:\ApiFrame\RunBusiness\obj\x86\Debug\RunBusiness.csproj.GenerateResource.Cache
+D:\ApiFrame\RunBusiness\bin\Debug\RunBusiness.exe.config
+D:\ApiFrame\RunBusiness\bin\Debug\RunBusiness.exe
+D:\ApiFrame\RunBusiness\bin\Debug\RunBusiness.pdb
+D:\ApiFrame\RunBusiness\bin\Debug\ApiFrame.Bussiness.dll
+D:\ApiFrame\RunBusiness\bin\Debug\ApiFrame.Common.dll
+D:\ApiFrame\RunBusiness\bin\Debug\ApiFrame.DataAccess.dll
+D:\ApiFrame\RunBusiness\bin\Debug\Npgsql.dll
+D:\ApiFrame\RunBusiness\bin\Debug\ApiFrame.Connection.dll
+D:\ApiFrame\RunBusiness\bin\Debug\Newtonsoft.Json.dll
+D:\ApiFrame\RunBusiness\bin\Debug\Mono.Security.dll
+D:\ApiFrame\RunBusiness\bin\Debug\log4net.dll
+D:\ApiFrame\RunBusiness\bin\Debug\ApiFrame.Bussiness.pdb
+D:\ApiFrame\RunBusiness\bin\Debug\ApiFrame.Common.pdb
+D:\ApiFrame\RunBusiness\bin\Debug\ApiFrame.DataAccess.pdb
+D:\ApiFrame\RunBusiness\bin\Debug\ApiFrame.Connection.pdb
+D:\ApiFrame\RunBusiness\bin\Debug\log4net.xml
+D:\ApiFrame\RunBusiness\obj\x86\Debug\RunBusiness.exe
+D:\ApiFrame\RunBusiness\obj\x86\Debug\RunBusiness.pdb
+E:\Hau-Data\HRSB_TimeSheet\ApiFrame\RunBusiness\bin\Debug\RunBusiness.exe.config
+E:\Hau-Data\HRSB_TimeSheet\ApiFrame\RunBusiness\bin\Debug\RunBusiness.exe
+E:\Hau-Data\HRSB_TimeSheet\ApiFrame\RunBusiness\bin\Debug\RunBusiness.pdb
+E:\Hau-Data\HRSB_TimeSheet\ApiFrame\RunBusiness\bin\Debug\ApiFrame.Bussiness.dll
+E:\Hau-Data\HRSB_TimeSheet\ApiFrame\RunBusiness\bin\Debug\ApiFrame.Common.dll
+E:\Hau-Data\HRSB_TimeSheet\ApiFrame\RunBusiness\bin\Debug\ApiFrame.DataAccess.dll
+E:\Hau-Data\HRSB_TimeSheet\ApiFrame\RunBusiness\bin\Debug\Npgsql.dll
+E:\Hau-Data\HRSB_TimeSheet\ApiFrame\RunBusiness\bin\Debug\ApiFrame.Connection.dll
+E:\Hau-Data\HRSB_TimeSheet\ApiFrame\RunBusiness\bin\Debug\Newtonsoft.Json.dll
+E:\Hau-Data\HRSB_TimeSheet\ApiFrame\RunBusiness\bin\Debug\Mono.Security.dll
+E:\Hau-Data\HRSB_TimeSheet\ApiFrame\RunBusiness\bin\Debug\log4net.dll
+E:\Hau-Data\HRSB_TimeSheet\ApiFrame\RunBusiness\bin\Debug\ApiFrame.Bussiness.pdb
+E:\Hau-Data\HRSB_TimeSheet\ApiFrame\RunBusiness\bin\Debug\ApiFrame.Common.pdb
+E:\Hau-Data\HRSB_TimeSheet\ApiFrame\RunBusiness\bin\Debug\ApiFrame.DataAccess.pdb
+E:\Hau-Data\HRSB_TimeSheet\ApiFrame\RunBusiness\bin\Debug\ApiFrame.Connection.pdb
+E:\Hau-Data\HRSB_TimeSheet\ApiFrame\RunBusiness\bin\Debug\log4net.xml
+E:\Hau-Data\HRSB_TimeSheet\ApiFrame\RunBusiness\obj\x86\Debug\RunBusiness.csprojResolveAssemblyReference.cache
+E:\Hau-Data\HRSB_TimeSheet\ApiFrame\RunBusiness\obj\x86\Debug\RunBusiness.frmTest.resources
+E:\Hau-Data\HRSB_TimeSheet\ApiFrame\RunBusiness\obj\x86\Debug\RunBusiness.Properties.Resources.resources
+E:\Hau-Data\HRSB_TimeSheet\ApiFrame\RunBusiness\obj\x86\Debug\RunBusiness.csproj.GenerateResource.Cache
+E:\Hau-Data\HRSB_TimeSheet\ApiFrame\RunBusiness\obj\x86\Debug\RunBusiness.exe
+E:\Hau-Data\HRSB_TimeSheet\ApiFrame\RunBusiness\obj\x86\Debug\RunBusiness.pdb
+D:\Source\ApiFrame\RunBusiness\bin\Debug\RunBusiness.exe.config
+D:\Source\ApiFrame\RunBusiness\bin\Debug\RunBusiness.exe
+D:\Source\ApiFrame\RunBusiness\bin\Debug\RunBusiness.pdb
+D:\Source\ApiFrame\RunBusiness\bin\Debug\ApiFrame.Bussiness.dll
+D:\Source\ApiFrame\RunBusiness\bin\Debug\ApiFrame.Common.dll
+D:\Source\ApiFrame\RunBusiness\bin\Debug\ApiFrame.DataAccess.dll
+D:\Source\ApiFrame\RunBusiness\bin\Debug\Npgsql.dll
+D:\Source\ApiFrame\RunBusiness\bin\Debug\ApiFrame.Connection.dll
+D:\Source\ApiFrame\RunBusiness\bin\Debug\Newtonsoft.Json.dll
+D:\Source\ApiFrame\RunBusiness\bin\Debug\Mono.Security.dll
+D:\Source\ApiFrame\RunBusiness\bin\Debug\log4net.dll
+D:\Source\ApiFrame\RunBusiness\bin\Debug\ApiFrame.Bussiness.pdb
+D:\Source\ApiFrame\RunBusiness\bin\Debug\ApiFrame.Common.pdb
+D:\Source\ApiFrame\RunBusiness\bin\Debug\ApiFrame.DataAccess.pdb
+D:\Source\ApiFrame\RunBusiness\bin\Debug\ApiFrame.Connection.pdb
+D:\Source\ApiFrame\RunBusiness\bin\Debug\log4net.xml
+D:\Source\ApiFrame\RunBusiness\obj\x86\Debug\RunBusiness.csprojResolveAssemblyReference.cache
+D:\Source\ApiFrame\RunBusiness\obj\x86\Debug\RunBusiness.frmTest.resources
+D:\Source\ApiFrame\RunBusiness\obj\x86\Debug\RunBusiness.Properties.Resources.resources
+D:\Source\ApiFrame\RunBusiness\obj\x86\Debug\RunBusiness.csproj.GenerateResource.Cache
+D:\Source\ApiFrame\RunBusiness\obj\x86\Debug\RunBusiness.exe
+D:\Source\ApiFrame\RunBusiness\obj\x86\Debug\RunBusiness.pdb

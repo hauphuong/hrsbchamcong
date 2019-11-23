@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="D:\SeabankSVN\dotnet\HRSB\Cham Cong\SourceCode\ApiFrame\Publish" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="Web.config" publishTime="10/23/2019 15:07:25" />
+    <file relUrl="bin/ApiFrame.Bussiness.dll" publishTime="10/23/2019 15:06:18" />
+    <file relUrl="bin/Mono.Security.dll" publishTime="10/09/2019 11:22:46" />
+    <file relUrl="bin/Npgsql.dll" publishTime="10/09/2019 11:22:46" />
+    <file relUrl="bin/ApiFrame.Common.dll" publishTime="10/23/2019 15:06:17" />
+    <file relUrl="bin/ApiFrame.dll" publishTime="10/23/2019 15:06:18" />
+    <file relUrl="bin/ApiFrame.Bussiness.pdb" publishTime="10/23/2019 15:06:18" />
+    <file relUrl="ApiFrame.svc" publishTime="10/22/2019 10:07:32" />
+    <file relUrl="bin/ApiFrame.pdb" publishTime="10/23/2019 15:06:18" />
+    <file relUrl="bin/ApiFrame.Common.pdb" publishTime="10/23/2019 15:06:16" />
+  </publishProfile>
+</publishData>

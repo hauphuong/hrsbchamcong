@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://api.seabank.com.vn/" elementFormDefault="qualified" targetNamespace="http://api.seabank.com.vn/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://10.9.70.64:8586/ApiFrame.svc?xsd=xsd2" />
+  <xs:import schemaLocation="http://10.9.70.64:8586/ApiFrame.svc?xsd=xsd3" namespace="http://schemas.datacontract.org/2004/07/ApiSystem" />
+  <xs:element name="process">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="request" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="processResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="processResult" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ApiProcess">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="rData" nillable="true" type="seabReq" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ApiProcessResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q1="http://schemas.datacontract.org/2004/07/ApiSystem" minOccurs="0" name="ApiProcessResult" nillable="true" type="q1:seabRes" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

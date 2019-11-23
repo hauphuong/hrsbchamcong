@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="673f232b-dab0-42b8-a722-8129efbd4048" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://10.9.70.64:8586/ApiFrame.svc?wsdl" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="ApiFrame.xsd" MetadataType="Schema" ID="c63e1c73-c079-4681-9fd3-771939085356" SourceId="1" SourceUrl="http://10.9.70.64:8586/ApiFrame.svc?xsd=xsd0" />
+    <MetadataFile FileName="ApiFrame1.xsd" MetadataType="Schema" ID="6437f0ed-2e92-4595-8ae6-61bb2d16f171" SourceId="1" SourceUrl="http://10.9.70.64:8586/ApiFrame.svc?xsd=xsd2" />
+    <MetadataFile FileName="ApiFrame.wsdl" MetadataType="Wsdl" ID="2d0bd3d0-9c04-4802-881a-5fa9c4a98f12" SourceId="1" SourceUrl="http://10.9.70.64:8586/ApiFrame.svc?wsdl" />
+    <MetadataFile FileName="ApiFrame1.wsdl" MetadataType="Wsdl" ID="9588162a-9e35-464b-85b8-6700048645f8" SourceId="1" SourceUrl="http://10.9.70.64:8586/ApiFrame.svc?wsdl=wsdl0" />
+    <MetadataFile FileName="ApiFrame2.xsd" MetadataType="Schema" ID="f77abdc4-c207-4a67-8681-f3a7149f86b5" SourceId="1" SourceUrl="http://10.9.70.64:8586/ApiFrame.svc?xsd=xsd1" />
+    <MetadataFile FileName="ApiFrame3.xsd" MetadataType="Schema" ID="faf171dd-c7b3-45e5-a360-19e27d5bba07" SourceId="1" SourceUrl="http://10.9.70.64:8586/ApiFrame.svc?xsd=xsd3" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
