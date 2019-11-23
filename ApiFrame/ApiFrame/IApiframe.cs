@@ -14,7 +14,6 @@ namespace ApiFrame
     [ServiceContract(Namespace = "http://api.seabank.com.vn/")]
     public interface IApiframe
     {
-
         //[OperationContract]
         //[WebInvoke(Method = "POST",
         //    ResponseFormat = WebMessageFormat.Json,
