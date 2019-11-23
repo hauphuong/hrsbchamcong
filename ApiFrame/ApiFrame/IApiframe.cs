@@ -30,6 +30,5 @@ namespace ApiFrame
             BodyStyle = WebMessageBodyStyle.Bare,
             UriTemplate = "GetEmployeeInfo")]
         GetEmployeeInfoResponse getEmployeeProcess(EmployeeRequest request);
-
     }
 }
