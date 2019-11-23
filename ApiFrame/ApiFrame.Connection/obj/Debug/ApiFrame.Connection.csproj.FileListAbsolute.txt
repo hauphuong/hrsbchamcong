@@ -58,3 +58,14 @@ D:\Source\ApiFrame\ApiFrame.Connection\bin\Debug\log4net.xml
 D:\Source\ApiFrame\ApiFrame.Connection\obj\Debug\ApiFrame.Connection.csprojResolveAssemblyReference.cache
 D:\Source\ApiFrame\ApiFrame.Connection\obj\Debug\ApiFrame.Connection.dll
 D:\Source\ApiFrame\ApiFrame.Connection\obj\Debug\ApiFrame.Connection.pdb
+C:\Users\haulv\Desktop\hrsbchamcong\ApiFrame\ApiFrame.Connection\bin\Debug\ApiFrame.Connection.dll.config
+C:\Users\haulv\Desktop\hrsbchamcong\ApiFrame\ApiFrame.Connection\bin\Debug\ApiFrame.Connection.dll
+C:\Users\haulv\Desktop\hrsbchamcong\ApiFrame\ApiFrame.Connection\bin\Debug\ApiFrame.Connection.pdb
+C:\Users\haulv\Desktop\hrsbchamcong\ApiFrame\ApiFrame.Connection\bin\Debug\ApiFrame.Common.dll
+C:\Users\haulv\Desktop\hrsbchamcong\ApiFrame\ApiFrame.Connection\bin\Debug\log4net.dll
+C:\Users\haulv\Desktop\hrsbchamcong\ApiFrame\ApiFrame.Connection\bin\Debug\Newtonsoft.Json.dll
+C:\Users\haulv\Desktop\hrsbchamcong\ApiFrame\ApiFrame.Connection\bin\Debug\ApiFrame.Common.pdb
+C:\Users\haulv\Desktop\hrsbchamcong\ApiFrame\ApiFrame.Connection\bin\Debug\log4net.xml
+C:\Users\haulv\Desktop\hrsbchamcong\ApiFrame\ApiFrame.Connection\obj\Debug\ApiFrame.Connection.csprojResolveAssemblyReference.cache
+C:\Users\haulv\Desktop\hrsbchamcong\ApiFrame\ApiFrame.Connection\obj\Debug\ApiFrame.Connection.dll
+C:\Users\haulv\Desktop\hrsbchamcong\ApiFrame\ApiFrame.Connection\obj\Debug\ApiFrame.Connection.pdb

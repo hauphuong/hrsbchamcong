@@ -78,3 +78,13 @@ D:\Source\ApiFrame\ApiFrame.DataAccess\bin\Debug\ApiFrame.Common.pdb
 D:\Source\ApiFrame\ApiFrame.DataAccess\obj\Debug\ApiFrame.DataAccess.csprojResolveAssemblyReference.cache
 D:\Source\ApiFrame\ApiFrame.DataAccess\obj\Debug\ApiFrame.DataAccess.dll
 D:\Source\ApiFrame\ApiFrame.DataAccess\obj\Debug\ApiFrame.DataAccess.pdb
+C:\Users\haulv\Desktop\hrsbchamcong\ApiFrame\ApiFrame.DataAccess\bin\Debug\ApiFrame.DataAccess.dll
+C:\Users\haulv\Desktop\hrsbchamcong\ApiFrame\ApiFrame.DataAccess\bin\Debug\ApiFrame.DataAccess.pdb
+C:\Users\haulv\Desktop\hrsbchamcong\ApiFrame\ApiFrame.DataAccess\bin\Debug\ApiFrame.Common.dll
+C:\Users\haulv\Desktop\hrsbchamcong\ApiFrame\ApiFrame.DataAccess\bin\Debug\Mono.Security.dll
+C:\Users\haulv\Desktop\hrsbchamcong\ApiFrame\ApiFrame.DataAccess\bin\Debug\Newtonsoft.Json.dll
+C:\Users\haulv\Desktop\hrsbchamcong\ApiFrame\ApiFrame.DataAccess\bin\Debug\Npgsql.dll
+C:\Users\haulv\Desktop\hrsbchamcong\ApiFrame\ApiFrame.DataAccess\bin\Debug\ApiFrame.Common.pdb
+C:\Users\haulv\Desktop\hrsbchamcong\ApiFrame\ApiFrame.DataAccess\obj\Debug\ApiFrame.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\haulv\Desktop\hrsbchamcong\ApiFrame\ApiFrame.DataAccess\obj\Debug\ApiFrame.DataAccess.dll
+C:\Users\haulv\Desktop\hrsbchamcong\ApiFrame\ApiFrame.DataAccess\obj\Debug\ApiFrame.DataAccess.pdb

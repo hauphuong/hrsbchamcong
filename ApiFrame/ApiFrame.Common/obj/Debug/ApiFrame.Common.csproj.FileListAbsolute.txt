@@ -32,3 +32,8 @@ D:\Source\ApiFrame\ApiFrame.Common\bin\Debug\ApiFrame.Common.pdb
 D:\Source\ApiFrame\ApiFrame.Common\obj\Debug\ApiFrame.Common.csprojResolveAssemblyReference.cache
 D:\Source\ApiFrame\ApiFrame.Common\obj\Debug\ApiFrame.Common.dll
 D:\Source\ApiFrame\ApiFrame.Common\obj\Debug\ApiFrame.Common.pdb
+C:\Users\haulv\Desktop\hrsbchamcong\ApiFrame\ApiFrame.Common\bin\Debug\ApiFrame.Common.dll
+C:\Users\haulv\Desktop\hrsbchamcong\ApiFrame\ApiFrame.Common\bin\Debug\ApiFrame.Common.pdb
+C:\Users\haulv\Desktop\hrsbchamcong\ApiFrame\ApiFrame.Common\obj\Debug\ApiFrame.Common.csprojResolveAssemblyReference.cache
+C:\Users\haulv\Desktop\hrsbchamcong\ApiFrame\ApiFrame.Common\obj\Debug\ApiFrame.Common.dll
+C:\Users\haulv\Desktop\hrsbchamcong\ApiFrame\ApiFrame.Common\obj\Debug\ApiFrame.Common.pdb
