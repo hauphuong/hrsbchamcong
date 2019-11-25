@@ -29,5 +29,13 @@ namespace ApiFrame
             BodyStyle = WebMessageBodyStyle.Bare,
             UriTemplate = "GetEmployeeInfo")]
         GetEmployeeInfoResponse getEmployeeProcess(EmployeeRequest request);
+
+        [OperationContract]
+        [WebInvoke(Method = "POST",
+            ResponseFormat = WebMessageFormat.Json,
+            RequestFormat = WebMessageFormat.Json,
+            BodyStyle = WebMessageBodyStyle.Bare,
+            UriTemplate = "GetApprovalLevel")]
+        GetEmployeeInfoResponse getEmployeeProcess(EmployeeRequest request);
     }
 }
