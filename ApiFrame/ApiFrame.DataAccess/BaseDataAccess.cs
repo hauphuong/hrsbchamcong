@@ -58,7 +58,7 @@ namespace ApiFrame.DataAccess
             try
             {
                 conn = ScopeConnection.Instance.GetConnection();
-
+                if (conn.State == System.Data.ConnectionState.Closed) conn.Open();
                 NpgsqlCommand cmd = new NpgsqlCommand(sql, conn);
                 cmd.CommandTimeout = 6000;
                 NpgsqlDataReader reader = cmd.ExecuteReader();
