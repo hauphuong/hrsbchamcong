@@ -12,10 +12,11 @@ namespace ApiFrame.DataAccess
     public class BaseDataAccess<T> : BaseProvider<T> where T : class, new()
     {
         #region ExcuteQuery
-        public DataTable ExcuteQueryByText(TypeQuery type, string sql)
+        public DataTable ExcuteQueryByText(TypeQuery type, string sql, NpgsqlConnection conn = null, NpgsqlTransaction chamCongTransaction = null)
         {
             DataTable dt = null;
-            switch (type) {
+            switch (type)
+            {
                 case TypeQuery.insert:
                     break;
                 case TypeQuery.update:
@@ -25,11 +26,12 @@ namespace ApiFrame.DataAccess
                 case TypeQuery.filter:
                     break;
                 default:
-                    dt = Get(dt, sql);
+                    dt = Get(dt, sql, conn, chamCongTransaction);
                     break;
             }
             return dt;
         }
+
 
         public DataTable ExcuteQueryByStoredProcedure(TypeQuery type, Dictionary<string, string> data)
         {
@@ -52,14 +54,15 @@ namespace ApiFrame.DataAccess
         #endregion
 
         #region Get
-        private static DataTable Get(DataTable dt, string sql)
+        private static DataTable Get(DataTable dt, string sql, NpgsqlConnection conn = null, NpgsqlTransaction chamCongTransaction = null)
         {
-            NpgsqlConnection conn = null;
             try
             {
-                conn = ScopeConnection.Instance.GetConnection();
+                if (conn == null) conn = ScopeConnection.Instance.GetConnection();
                 if (conn.State == System.Data.ConnectionState.Closed) conn.Open();
                 NpgsqlCommand cmd = new NpgsqlCommand(sql, conn);
+                if (chamCongTransaction != null)
+                    cmd.Transaction = chamCongTransaction;
                 cmd.CommandTimeout = 6000;
                 NpgsqlDataReader reader = cmd.ExecuteReader();
                 dt = new DataTable();
@@ -71,11 +74,13 @@ namespace ApiFrame.DataAccess
             }
             finally
             {
-                ScopeConnection.Instance.CloseConnection(conn);
+                if (chamCongTransaction == null)
+                    ScopeConnection.Instance.CloseConnection(conn);
             }
 
             return dt;
         }
+
         #endregion
     }
 }
