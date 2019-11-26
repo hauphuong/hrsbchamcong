@@ -53,6 +53,7 @@
     <Compile Include="Requests\CategoryRequest.cs" />
     <Compile Include="Requests\ApprovalLevelRequest.cs" />
     <Compile Include="Requests\EmployeeRequest.cs" />
+    <Compile Include="Requests\LeaveTypeRequest.cs" />
     <Compile Include="Requests\OrganizationRequest.cs" />
     <Compile Include="Responses\CategoryResponse.cs" />
     <Compile Include="Responses\ApprovalLevelResponse.cs" />

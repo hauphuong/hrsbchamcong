@@ -39,5 +39,13 @@ namespace ApiFrame
         {
             return GetApprovalLevel.process(request);
         }
+
+        #region Danh mục
+        
+        public SeabRes<BodyRes> CreateLeaveTypeProcess(SeabReq<LeaveTypeCreateRequest> request)
+        {
+            return Category.CreateLeaveTypeProcess(request);
+        }
+        #endregion
     }
 }

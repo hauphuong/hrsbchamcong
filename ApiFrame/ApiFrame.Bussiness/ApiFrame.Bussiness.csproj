@@ -57,6 +57,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Category.cs" />
     <Compile Include="CheckInOut.cs" />
     <Compile Include="GetApprovalLevel.cs" />
     <Compile Include="GetEmployee.cs" />

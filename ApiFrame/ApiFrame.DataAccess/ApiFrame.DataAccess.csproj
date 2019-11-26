@@ -52,6 +52,7 @@
   <ItemGroup>
     <Compile Include="BaseDataAccess.cs" />
     <Compile Include="DS_ApprovalLevel.cs" />
+    <Compile Include="DS_Category.cs" />
     <Compile Include="DS_CheckInOut.cs" />
     <Compile Include="DS_TimeKeeping.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

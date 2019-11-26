@@ -46,5 +46,15 @@ namespace ApiFrame
             BodyStyle = WebMessageBodyStyle.Bare,
             UriTemplate = "GetApprovalLevel")]
         SeabRes<ApprovalLevelRes> GetApprovalLevelProcess(SeabReq<ApprovalLevelReq> request);
+
+        #region Danh mục
+        [OperationContract]
+        [WebInvoke(Method = "POST",
+            ResponseFormat = WebMessageFormat.Json,
+            RequestFormat = WebMessageFormat.Json,
+            BodyStyle = WebMessageBodyStyle.Bare,
+            UriTemplate = "Category/LeaveType/Create")]
+        SeabRes<BodyRes> CreateLeaveTypeProcess(SeabReq<LeaveTypeCreateRequest> request);
+        #endregion
     }
 }
