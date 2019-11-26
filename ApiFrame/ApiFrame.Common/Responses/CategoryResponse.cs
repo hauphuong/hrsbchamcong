@@ -8,11 +8,26 @@ using ApiFrame.Common.Requests;
 namespace ApiFrame.Common.Responses
 {
     [DataContract]
-    public class CategoryResponse : SeabRes
+    public class CategoryRes : BodyRes
     {
-        [DataMember(IsRequired = false, EmitDefaultValue = false)]
-        public string command { get; set; }
+        public CategoryRes(CategoryInfo data)
+        {
+            DataRes = data;
+        }
 
+        public CategoryRes()
+        {
+            DataRes = new CategoryInfo();
+        }
+
+        [DataMember(IsRequired = false, EmitDefaultValue = false, Name = "DataRes")]
+        public CategoryInfo DataRes { get; set; }
+    }
+
+    #region CategoryResponse
+    [DataContract]
+    public class CategoryInfo
+    {
         [DataMember(IsRequired = false, EmitDefaultValue = false)]
         public string category { get; set; }
 
@@ -26,4 +41,5 @@ namespace ApiFrame.Common.Responses
         [DataMember(IsRequired = false, EmitDefaultValue = false, Name = "data")]
         public List<CategoryDetails> details { get; set; }
     }
+    #endregion
 }

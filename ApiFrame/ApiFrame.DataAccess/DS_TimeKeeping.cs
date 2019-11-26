@@ -5,6 +5,7 @@ using System.Text;
 using System.Data;
 using Npgsql;
 using ApiFrame.Common;
+using ApiFrame.Common.Responses;
 
 namespace ApiFrame.DataAccess
 {
@@ -52,7 +53,7 @@ namespace ApiFrame.DataAccess
 
         //}
 
-        public static void LogResponse(NpgsqlConnection conn, SeabRes response)
+        public static void LogResponse<TData>(NpgsqlConnection conn, SeabRes<TData> response) where TData : BodyRes, new()
         {
             try
             {

@@ -7,8 +7,9 @@ using System.Runtime.Serialization;
 namespace ApiFrame.Common.Requests
 {
     [DataContract]
-    public class CategoryRequest : SeabReq
+    public class CategoryReq : BodyReq
     {
+        #region CategoryBody
         [DataMember(IsRequired = false, EmitDefaultValue = false)]
         public string command { get; set; }
 
@@ -32,6 +33,7 @@ namespace ApiFrame.Common.Requests
         #region verifytimekeeping
         public string ma_nhanvien { get; set; }
         public List<VerifyTimeKeepingData> datas { get; set; }
+        #endregion
         #endregion
     }
 

@@ -31,6 +31,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="log4net">
+      <HintPath>..\packages\log4net.2.0.8\lib\net40-full\log4net.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.configuration" />
     <Reference Include="System.Core" />
@@ -43,14 +46,20 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Attributes\ErrorAttr.cs" />
+    <Compile Include="BaseProvider.cs" />
     <Compile Include="Constants.cs" />
     <Compile Include="Enums\Error.cs" />
+    <Compile Include="Enums\TypeQuery.cs" />
     <Compile Include="Requests\CategoryRequest.cs" />
+    <Compile Include="Requests\ApprovalLevelRequest.cs" />
     <Compile Include="Requests\EmployeeRequest.cs" />
+    <Compile Include="Requests\OrganizationRequest.cs" />
     <Compile Include="Responses\CategoryResponse.cs" />
+    <Compile Include="Responses\ApprovalLevelResponse.cs" />
     <Compile Include="Responses\EmployeeResponse.cs" />
-    <Compile Include="SeabReq.cs" />
-    <Compile Include="SeabRes.cs" />
+    <Compile Include="Responses\OrganizationResponse.cs" />
+    <Compile Include="Requests\SeabReq.cs" />
+    <Compile Include="Responses\SeabRes.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ThongTinChamCong.cs" />
     <Compile Include="Utils.cs" />

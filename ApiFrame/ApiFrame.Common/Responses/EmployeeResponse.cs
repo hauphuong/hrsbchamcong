@@ -7,15 +7,20 @@ using System.Runtime.Serialization;
 namespace ApiFrame.Common.Responses
 {
     [DataContract]
-    public class GetEmployeeInfoResponse : SeabRes
+    public class EmployeeRes : BodyRes
     {
-        public GetEmployeeInfoResponse ()
+        public EmployeeRes(IEnumerable<EmployeeInfo> data)
         {
-            emloyees = new List<EmployeeInfo>();
+            DataRes = data;
+        }
+
+        public EmployeeRes()
+        {
+            DataRes = new List<EmployeeInfo>();
         }
 
         [DataMember(IsRequired = false, EmitDefaultValue = false, Name = "DataRes")]
-        public IEnumerable<EmployeeInfo> emloyees { get; set; }
+        public IEnumerable<EmployeeInfo> DataRes { get; set; }
     }
 
     #region EmployeeInfo
@@ -64,37 +69,37 @@ namespace ApiFrame.Common.Responses
     [DataContract]
     public class EmployeeInfoForTS
     {
-        //[DataMember(IsRequired = false, EmitDefaultValue = false, Name = "code")]
+        [DataMember(IsRequired = false, EmitDefaultValue = false, Name = "code")]
         public string code { get; set; }
 
-        //[DataMember(IsRequired = false, EmitDefaultValue = false, Name = "first_name")]
+        [DataMember(IsRequired = false, EmitDefaultValue = false, Name = "first_name")]
         public string first_name { get; set; }
 
-        //[DataMember(IsRequired = false, EmitDefaultValue = false, Name = "last_name")]
+        [DataMember(IsRequired = false, EmitDefaultValue = false, Name = "last_name")]
         public string last_name { get; set; }
 
-        //[DataMember(IsRequired = false, EmitDefaultValue = false, Name = "ip_phone")]
+        [DataMember(IsRequired = false, EmitDefaultValue = false, Name = "ip_phone")]
         public string ip_phone { get; set; }
 
-        //[DataMember(IsRequired = false, EmitDefaultValue = false, Name = "accountname")]
+        [DataMember(IsRequired = false, EmitDefaultValue = false, Name = "accountname")]
         public string accountname { get; set; }
 
-        //[DataMember(IsRequired = false, EmitDefaultValue = false, Name = "email")]
+        [DataMember(IsRequired = false, EmitDefaultValue = false, Name = "email")]
         public string email { get; set; }
 
-        //[DataMember(IsRequired = false, EmitDefaultValue = false, Name = "org_name")]
+        [DataMember(IsRequired = false, EmitDefaultValue = false, Name = "org_name")]
         public string org_name { get; set; }
 
-        //[DataMember(IsRequired = false, EmitDefaultValue = false, Name = "job_title")]
+        [DataMember(IsRequired = false, EmitDefaultValue = false, Name = "job_title")]
         public string job_title { get; set; }
 
-        //[DataMember(IsRequired = false, EmitDefaultValue = false, Name = "job_type")]
+        [DataMember(IsRequired = false, EmitDefaultValue = false, Name = "job_type")]
         public string job_type { get; set; }
 
-        //[DataMember(IsRequired = false, EmitDefaultValue = false, Name = "ismanager")]
+        [DataMember(IsRequired = false, EmitDefaultValue = false, Name = "ismanager")]
         public bool ismanager { get; set; }
 
-        //[DataMember(IsRequired = false, EmitDefaultValue = false, Name = "ishr")]
+        [DataMember(IsRequired = false, EmitDefaultValue = false, Name = "ishr")]
         public bool ishr { get; set; }
     }
     #endregion

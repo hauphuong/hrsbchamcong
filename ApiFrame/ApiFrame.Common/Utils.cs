@@ -10,41 +10,6 @@ namespace ApiFrame.Common
 {
     public class Utils
     {
-        public static SeabRes CreateReponse(SeabReq reqs, Error err)
-        {
-            SeabRes seabres = new SeabRes();
-            seabres.header = new HeaderRes(reqs.header, err);
-            return seabres;
-        }
-
-        public static SeabRes CreateCommonError(SeabRes seabres, string errorCode, string err)
-        {
-            seabres.header.res_code = errorCode;
-            seabres.header.res_desc = err;
-            return seabres;
-        }
-
-        public static SeabRes CreateCommonError(SeabRes seabres, Error err)
-        {
-            seabres.header.res_code = GetErrorCode(err);
-            seabres.header.res_desc = GetErrorDesc(err);
-            return seabres;
-        }
-
-        public static SeabRes CreateBlankError(SeabRes seabres, string fileName)
-        {
-            seabres.header.res_code = GetErrorCode(Error.E161);
-            seabres.header.res_desc = GetErrorDesc(Error.E161) + fileName;
-            return seabres;
-        }
-
-        public static SeabRes CreateInvalidValueError(SeabRes seabres, string fileName)
-        {
-            seabres.header.res_code = GetErrorCode(Error.E161);
-            seabres.header.res_desc = GetErrorDesc(Error.E161) + fileName;
-            return seabres;
-        }
-
         public static string GenTraceID(string TraceID = "")
         {
             int number = new Random().Next(11, 999);
@@ -53,10 +18,11 @@ namespace ApiFrame.Common
 
         // HieuLT.ITSol
         #region ApplyDataDefaultRes
-        public static T ApplyDataDefaultRes<T, TInfo>(HeaderReq head, BodyRes<TInfo> body, string sign) where T : SeabRes, new()
+        public static SeabRes<T> ApplyResponse<T>(HeaderReq head, string errCode, string errDesc, T body, string sign) where T : BodyRes, new()
         {
-            T response = new T();
-            response.header = new HeaderRes(head, body.error);
+            SeabRes<T> response = new SeabRes<T>();
+            response.header = new HeaderRes(head, errCode, errDesc);
+            response.body = body;
             response.sign = sign;
 
             return response;
@@ -81,10 +47,10 @@ namespace ApiFrame.Common
             return null;
         }
 
-        public static string GetErrorDesc(Error gender)
+        public static string GetErrorDesc(Error err)
         {
-            ErrorAttr genderAttr = GetAttr(gender);
-            return genderAttr.Desc;
+            ErrorAttr errorAttr = GetAttr(err);
+            return errorAttr.Desc;
         }
 
         public static string GetErrorCode(Error err)
@@ -99,10 +65,10 @@ namespace ApiFrame.Common
             return (ErrorAttr)Attribute.GetCustomAttribute(memberInfo, typeof(ErrorAttr));
         }
 
-        private static MemberInfo GetMemberInfo(Error gender)
+        private static MemberInfo GetMemberInfo(Error err)
         {
             MemberInfo memberInfo
-                = typeof(Error).GetField(Enum.GetName(typeof(Error), gender));
+                = typeof(Error).GetField(Enum.GetName(typeof(Error), err));
 
             return memberInfo;
         }

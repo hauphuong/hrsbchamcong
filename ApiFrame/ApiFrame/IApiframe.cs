@@ -14,6 +14,7 @@ namespace ApiFrame
     [ServiceContract(Namespace = "http://api.seabank.com.vn/")]
     public interface IApiframe
     {
+
         //[OperationContract]
         //[WebInvoke(Method = "POST",
         //    ResponseFormat = WebMessageFormat.Json,
@@ -28,7 +29,15 @@ namespace ApiFrame
             RequestFormat = WebMessageFormat.Json,
             BodyStyle = WebMessageBodyStyle.Bare,
             UriTemplate = "GetEmployeeInfo")]
-        GetEmployeeInfoResponse getEmployeeProcess(EmployeeRequest request);
+        SeabRes<EmployeeRes> GetEmployeeProcess(SeabReq<EmployeeReq> request);
+
+        [OperationContract]
+        [WebInvoke(Method = "POST",
+            ResponseFormat = WebMessageFormat.Json,
+            RequestFormat = WebMessageFormat.Json,
+            BodyStyle = WebMessageBodyStyle.Bare,
+            UriTemplate = "GetOrganizationInfo")]
+        SeabRes<OrganizationRes> GetOrganizationProcess(SeabReq<OrganizationReq> request);
 
         [OperationContract]
         [WebInvoke(Method = "POST",
@@ -36,6 +45,6 @@ namespace ApiFrame
             RequestFormat = WebMessageFormat.Json,
             BodyStyle = WebMessageBodyStyle.Bare,
             UriTemplate = "GetApprovalLevel")]
-        GetEmployeeInfoResponse getEmployeeProcess(EmployeeRequest request);
+        SeabRes<ApprovalLevelRes> GetApprovalLevelProcess(SeabReq<ApprovalLevelReq> request);
     }
 }

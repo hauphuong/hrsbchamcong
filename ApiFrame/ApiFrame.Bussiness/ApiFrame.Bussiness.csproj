@@ -58,10 +58,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CheckInOut.cs" />
+    <Compile Include="GetApprovalLevel.cs" />
     <Compile Include="GetEmployee.cs" />
+    <Compile Include="GetOrganization.cs" />
     <Compile Include="TimeKeeping.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="ScopeConnection.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\ApiFrame.Common\ApiFrame.Common.csproj">

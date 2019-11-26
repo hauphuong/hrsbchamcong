@@ -25,9 +25,19 @@ namespace ApiFrame
         //    return TimeKeeping.process(request);
         //}
 
-        public GetEmployeeInfoResponse getEmployeeProcess(EmployeeRequest request)
+        public SeabRes<EmployeeRes> GetEmployeeProcess(SeabReq<EmployeeReq> request)
         {
             return GetEmployee.process(request);
+        }
+
+        public SeabRes<OrganizationRes> GetOrganizationProcess(SeabReq<OrganizationReq> request)
+        {
+            return GetOrganization.process(request);
+        }
+
+        public SeabRes<ApprovalLevelRes> GetApprovalLevelProcess(SeabReq<ApprovalLevelReq> request)
+        {
+            return GetApprovalLevel.process(request);
         }
     }
 }

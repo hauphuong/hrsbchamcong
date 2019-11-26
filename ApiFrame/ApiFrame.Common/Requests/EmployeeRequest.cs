@@ -7,7 +7,7 @@ using System.Runtime.Serialization;
 namespace ApiFrame.Common.Requests
 {
     [DataContract]
-    public class EmployeeRequest : SeabReq
+    public class EmployeeReq : BodyReq
     {
         #region employee
         [DataMember(IsRequired = false, EmitDefaultValue = false)]
